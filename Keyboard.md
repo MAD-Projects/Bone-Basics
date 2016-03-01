@@ -1,6 +1,6 @@
 #Keyboard Shortcuts
 
-##Microsoft Outlook [Official](https://support.office.com/en-us/article/Keyboard-shortcuts-for-Microsoft-Outlook-2013-and-2016-3E1090F6-A616-42DB-ABF5-269CA3D553EE)
+##Microsoft Outlook [(Official Link)](https://support.office.com/en-us/article/Keyboard-shortcuts-for-Microsoft-Outlook-2013-and-2016-3E1090F6-A616-42DB-ABF5-269CA3D553EE)
 **Move** Email  = Ctrl+Shft+V   
 **Send** Email  = Alt+S    
 Switch to **Inbox** = Ctrl+Shift+I  
