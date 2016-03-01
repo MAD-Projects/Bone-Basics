@@ -1,6 +1,6 @@
 #Keyboard Shortcuts
 
-##Email
+##Microsoft Outlook
 **Move** Email  = Ctrl+Shft+V   
 **Send** Email  = Alt+S    
 Switch to **Inbox** = Ctrl+Shift+I  
