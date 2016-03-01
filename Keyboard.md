@@ -10,5 +10,5 @@ Switch to **Outbox** = Ctrl+Shift+O
 Reply with **meeting request** = Ctrl+Alt+R  
 **Forward** a message = Ctrl+F  
 
-##Windows
+##Microsoft Windows
 New **Folder** = Ctrl+Shft+N   
