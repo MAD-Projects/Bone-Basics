@@ -11,4 +11,4 @@ Reply with **meeting request** = Ctrl+Alt+R
 **Forward** a message = Ctrl+F  
 
 ##Windows
-New Folder = Ctrl+Shft+N   
+New **Folder** = Ctrl+Shft+N   
