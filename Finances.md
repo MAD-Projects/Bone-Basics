@@ -1,8 +1,8 @@
 #Finances
 
 ##Education Savings
-- [Coverdell Education Savings Account](https://www.irs.gov/publications/p970/ch07.html)
- - [Vanguard](https://personal.vanguard.com/us/whatweoffer/college/vanguardesa)
+- [Coverdell Education Savings Account (IRS Rules)](https://www.irs.gov/publications/p970/ch07.html)
+ - [Vanguard education savings account (ESA)](https://personal.vanguard.com/us/whatweoffer/college/vanguardesa)
 - 529 Account
 
 |  | Coverdell Eduction Savings Account  |529 Account  |
