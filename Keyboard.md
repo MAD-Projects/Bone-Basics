@@ -17,7 +17,16 @@ Reply with **meeting request** = Ctrl+Alt+R
 
 ###Excel
 
+**Edit Cell** = F2
+**Copy Down from a cell** = Ctrl+Quote mark (")
+
+###Notepad
+**Create datestamp log** = F5
+**Create datestamp log** (Auto) = Create Notepad file, type .LOG, Opening and saving creates datestamp
+
 ###Windows 7
 New **Folder** = Ctrl+Shft+N   
+
+
 
 
