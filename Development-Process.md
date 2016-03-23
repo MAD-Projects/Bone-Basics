@@ -2,7 +2,7 @@
 
 ##Agile
 ###Agile Manifesto
-[Agile Manifesto Principles](http://agilemanifesto.org/principles.html)
+[Agile Manifesto Principles](http://agilemanifesto.org/principles.html)  
 We follow these principles:
 
 Our highest priority is to satisfy the customer
@@ -47,7 +47,7 @@ At regular intervals, the team reflects on how
 to become more effective, then tunes and adjusts
 its behavior accordingly. 
 
-[Agile Manifesto](http://agilemanifesto.org/)
+[Agile Manifesto](http://agilemanifesto.org/)  
 We are uncovering better wasy of developing software by doing it and helping others do it. Through this work we have come to value:
 **Individuals and interactions** over processes and tools.
 **Working software** over comprehensive documentation.
