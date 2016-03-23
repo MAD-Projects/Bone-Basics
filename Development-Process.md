@@ -1,7 +1,14 @@
-#Development Process
+# Development Process
+
 
 ##Agile
-###Agile Manifesto
+
+### Definition
+
+Agile is the 12 guiding principles of the Agile Manifesto for producing software. The best developers I know have incorporated the principles in their day to day work. (“How Are DevOps and Agile Different? - Quora”)
+
+### Agile Manifesto
+
 ####[Agile Manifesto Principles](http://agilemanifesto.org/principles.html)  
 "We follow these principles:
 
@@ -47,7 +54,7 @@ At regular intervals, the team reflects on how
 to become more effective, then tunes and adjusts
 its behavior accordingly." (“Manifesto for Agile Software Development”)
 
-####[Agile Manifesto](http://agilemanifesto.org/)  
+#### [Agile Manifesto](http://agilemanifesto.org/)  
 "We are uncovering better wasy of developing software by doing it and helping others do it. Through this work we have come to value:
 - **Individuals and interactions** over processes and tools.
 - **Working software** over comprehensive documentation.
@@ -56,9 +63,17 @@ its behavior accordingly." (“Manifesto for Agile Software Development”)
 
 That is, while there is value in the items on the right, we value the items on the left more." (“Manifesto for Agile Software Development”)
 
-##DevOps
 
-##Boyd
 
-##References
+## DevOps
+
+###Definition
+
+DevOps is a term to describes the foundational and operational aspects of producing software (e.g., environment setup, software containers, automated testing, continuous integration, continuous deployment). (“How Are DevOps and Agile Different? - Quora”)
+
+## Boyd
+
+## References
+
+- “How Are DevOps and Agile Different? - Quora.” N.p., n.d. Web. 23 Mar. 2016.
 - “Manifesto for Agile Software Development.” N.p., n.d. Web. 23 Mar. 2016.
