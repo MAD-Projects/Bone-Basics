@@ -2,7 +2,7 @@
 
 ##Agile
 ###Agile Manifesto
-[Agile Manifesto Principles](http://agilemanifesto.org/principles.html)  
+####[Agile Manifesto Principles](http://agilemanifesto.org/principles.html)  
 We follow these principles:
 
 Our highest priority is to satisfy the customer
@@ -37,8 +37,8 @@ to maintain a constant pace indefinitely.
 Continuous attention to technical excellence
 and good design enhances agility.
 
-Simplicity--the art of maximizing the amount
-of work not done--is essential.
+Simplicity-the art of maximizing the amount
+of work not done-is essential.
 
 The best architectures, requirements, and designs
 emerge from self-organizing teams.
@@ -47,12 +47,12 @@ At regular intervals, the team reflects on how
 to become more effective, then tunes and adjusts
 its behavior accordingly. 
 
-[Agile Manifesto](http://agilemanifesto.org/)  
+####[Agile Manifesto](http://agilemanifesto.org/)  
 We are uncovering better wasy of developing software by doing it and helping others do it. Through this work we have come to value:
-**Individuals and interactions** over processes and tools.
-**Working software** over comprehensive documentation.
-**Customer collaboration** over contract negotiation.
-**Responding to change** over following a plan.
+- **Individuals and interactions** over processes and tools.
+- **Working software** over comprehensive documentation.
+- **Customer collaboration** over contract negotiation.
+- **Responding to change** over following a plan.
 
 That is, while there is value in the items on the right, we value the items on the left more. 
 
