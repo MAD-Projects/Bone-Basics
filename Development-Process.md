@@ -45,7 +45,7 @@ emerge from self-organizing teams.
 
 At regular intervals, the team reflects on how
 to become more effective, then tunes and adjusts
-its behavior accordingly. 
+its behavior accordingly. (“Manifesto for Agile Software Development”)
 
 ####[Agile Manifesto](http://agilemanifesto.org/)  
 We are uncovering better wasy of developing software by doing it and helping others do it. Through this work we have come to value:
@@ -54,8 +54,11 @@ We are uncovering better wasy of developing software by doing it and helping oth
 - **Customer collaboration** over contract negotiation.
 - **Responding to change** over following a plan.
 
-That is, while there is value in the items on the right, we value the items on the left more. 
+That is, while there is value in the items on the right, we value the items on the left more. (“Manifesto for Agile Software Development”)
 
 ##DevOps
 
 ##Boyd
+
+##References
+- “Manifesto for Agile Software Development.” N.p., n.d. Web. 23 Mar. 2016.
