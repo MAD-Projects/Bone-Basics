@@ -2,7 +2,7 @@
 
 
 
-## Saving: 
+## SAVING: 
 Strive to save 10 to 20 percent of your income.
 
 ### Education Savings
@@ -22,23 +22,23 @@ Strive to save 10 to 20 percent of your income.
 | WHAT IF WITHDRAWALS EXCEED QUALIFIED EDUCATION EXPENSES? | Account holder pays tax (plus 10% penalty) on some portion of the withdrawals that exceed qualified educational expenses.  | Account holder pays tax (plus 10% penalty) on some portion of the withdrawals that exceed qualified educational expenses.  |
 
 
-## Credit: 
+## CREDIT: 
 Pay your credit card balances in full every month.
 
-## Retirement Accounts: 
+## RETIREMENT ACCOUNTS: 
 Max out your 401(K) and other tax-advantaged savings accounts.
 
 ### State Plan
 
-## Index Funds: 
+## INDEX FUNDS: 
 Buy inexpensive, well-diversified indexed mutual funds and exchange traded funds.
 
 ### Vangaurd IRA
 
-## Individual Stocks: 
+## INDIVIDUAL STOCKS: 
 Never buy or sell individual stocks.
 
-## Fiduciary Standard: 
+## FIDUCIARY STANDARD: 
 Make your financial advisor commit to the Fiduciary Standard.
 
 ### Financial Advisor(er)s as Salespeople
@@ -46,7 +46,7 @@ Make your financial advisor commit to the Fiduciary Standard.
 
 - Olen, Helaine, and Harold Pollack. The Index Card: Why Personal Finance Doesn’t Have to Be Complicated. 1 edition. New York, New York: Portfolio, 2016. Print.
 
-## Insurance: 
+## INSURANCE: 
 Make sure you're protected.
 
 ### Collision
@@ -59,5 +59,5 @@ Make sure you're protected.
 Avoid variable, equity, and index. 
 Only use longevity.
 
-## Social Security: 
+## SOCIAL SECURITY: 
 Do what you can to support the social safety net.
