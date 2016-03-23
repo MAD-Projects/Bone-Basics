@@ -3,7 +3,7 @@
 ##Agile
 ###Agile Manifesto
 ####[Agile Manifesto Principles](http://agilemanifesto.org/principles.html)  
-We follow these principles:
+"We follow these principles:
 
 Our highest priority is to satisfy the customer
 through early and continuous delivery
@@ -45,16 +45,16 @@ emerge from self-organizing teams.
 
 At regular intervals, the team reflects on how
 to become more effective, then tunes and adjusts
-its behavior accordingly. (“Manifesto for Agile Software Development”)
+its behavior accordingly." (“Manifesto for Agile Software Development”)
 
 ####[Agile Manifesto](http://agilemanifesto.org/)  
-We are uncovering better wasy of developing software by doing it and helping others do it. Through this work we have come to value:
+"We are uncovering better wasy of developing software by doing it and helping others do it. Through this work we have come to value:
 - **Individuals and interactions** over processes and tools.
 - **Working software** over comprehensive documentation.
 - **Customer collaboration** over contract negotiation.
 - **Responding to change** over following a plan.
 
-That is, while there is value in the items on the right, we value the items on the left more. (“Manifesto for Agile Software Development”)
+That is, while there is value in the items on the right, we value the items on the left more." (“Manifesto for Agile Software Development”)
 
 ##DevOps
 
