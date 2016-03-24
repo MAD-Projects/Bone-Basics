@@ -34,8 +34,27 @@ Buy inexpensive, well-diversified indexed mutual funds and exchange traded funds
 
 ### Vangaurd IRA
 
+### Stocks v. Bonds
+1. What's your age?
+2. Subtract your age from 100 (or 110).
+3. The result is the percentage of your assets that should be invested in stocks. 
+
+### Percentage Breakdown
+- 60% Stocks
+ - 70% S&P Index Fund
+ - 15% Small Cap Index Fund
+ - 15% International (Not Global) Fund
+- 40% Bonds
+ - 100% Long Term Index (Minimum of 10 years).
+ - 5-10% Could go into a REIT (Real Estate Investment Trust Index Fund) Fund. This could be a part of the bond holdings.  
+
 ## INDIVIDUAL STOCKS: 
 Never buy or sell individual stocks.
+
+###Stock:
+A stock is a share in a publicly traded company.
+###Bond:
+A Bond is a loan to a company in return for the loan, the company promises to both pay interest on the money give to it and pay the loan-that is the bond-back by a specified date. 
 
 ## FIDUCIARY STANDARD: 
 Make your financial advisor commit to the Fiduciary Standard.
@@ -60,3 +79,6 @@ Only use longevity.
 
 ## SOCIAL SECURITY: 
 Do what you can to support the social safety net.
+
+## REFERENCES
+- Olen, Helaine, and Harold Pollack. *The Index Card: Why Personal Finance Doesn’t Have to Be Complicated.* 1 edition. New York, New York: Portfolio, 2016. Print.
