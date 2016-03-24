@@ -11,6 +11,7 @@ Switch to **Outbox** = Ctrl+Shift+O
 **Reply all** to a message = Ctrl+Shift+R  
 Reply with **meeting request** = Ctrl+Alt+R  
 **Forward** a message = Ctrl+F  
+**Check for New Messages** = Ctrl+M
 
 ###SharePoint [(Official Link)](https://support.office.com/en-us/article/Keyboard-shortcuts-for-SharePoint-products-7dec847a-4f2a-47f6-9964-0ea1fba45160)
 
