@@ -22,6 +22,7 @@ Reply with **meeting request** = Ctrl+Alt+R
 **Copy Down from a cell** = Ctrl+Quote mark (")
 
 **Filter contents of a list but another list.**
+
 1. Start with a list that you want to filter.  
 2. Create a smaller list. Use [this page](https://support.microsoft.com/en-us/kb/213367).  
 > Type =IF(ISERROR(MATCH(A1,$C$1:$C$5,0)),"",A1) 
