@@ -21,8 +21,8 @@ Reply with **meeting request** = Ctrl+Alt+R
 **Edit Cell** = F2
 **Copy Down from a cell** = Ctrl+Quote mark (")
 
-**Filter contents of a list but another list.
-- Type >=IF(ISERROR(MATCH(A1,$C$1:$C$5,0)),"",A1) 
+**Filter contents of a list but another list.**
+- Type =IF(ISERROR(MATCH(A1,$C$1:$C$5,0)),"",A1) 
 
 ###Notepad
 **Create datestamp log** = F5
