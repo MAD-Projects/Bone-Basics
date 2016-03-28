@@ -28,6 +28,7 @@ Reply with **meeting request** = Ctrl+Alt+R
 > Type =IF(ISERROR(MATCH(A1,$C$1:$C$5,0)),"",A1) 
 
 3. Used the *advanced filter* option in excel. Use [this page](https://superuser.com/questions/623380/excel-filter-a-column-by-more-than-two-values) or [this page](http://www.excel-easy.com/examples/advanced-filter.html).
+4. Additional useful filtering information can be found [here](http://www.excelfunctions.net/ExcelAdvancedFilter.html).
 
 ###Notepad
 **Create datestamp log** = F5
