@@ -1,0 +1,11 @@
+#[Crow Names](https://en.wikipedia.org/wiki/List_of_fictional_birds#Crows.2C_ravens.2C_jays.2C_rooks_and_magpies)
+- Heckle
+- Jeckle
+- Jeremy the Crow
+- Diablo
+- Hugin
+- Munin
+- Matthew
+- Mr. Corax
+- Roac
+- Carc
