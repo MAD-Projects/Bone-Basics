@@ -3,7 +3,7 @@
 ##Stompy Music
 - **[Shove & Rope](https://en.wikipedia.org/wiki/Shovels_%26_Rope)**  
  - Members  
-   - *Cary Ann Hearst* 
+   - *Cary Ann Hearst*  
    - *Michael Trent*   
-  -  If you're going to get just one album:
+  -  If you're going to get just one album:  
    -  *Busted Jukebox Vol. 1*
