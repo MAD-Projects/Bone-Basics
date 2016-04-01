@@ -1,7 +1,7 @@
 #List of Music Worth Checking Out (By Sub-Genre)
 
 ##Stompy Music
-| **Band**  	|  **Members** 	|   **If you're going to get just one album, go with:**  |**Songs from all their albums worth checking out.**|
+| **Band**  	|  **Members** 	|   **If you're going to get just one album, go with:**  |**Songs worth checking out.**|
 |--- |--- |--- |--- |
 |[Shove & Rope](https://en.wikipedia.org/wiki/Shovels_%26_Rope) 	| Cary Ann Hearst, Michael Trent   	| *Busted Jukebox Vol. 1*|"[Unknown Legend (feat. Shakey Graves)](https://www.youtube.com/watch?v=CEkuxNDsHs8)"|
 |[Shakey Graves](https://en.wikipedia.org/wiki/Shakey_Graves) 	| Shakey Graves (born Alejandro Rose-Garcia)	|*And the War Came* |"[Dearly Departed (feat. Esme Patterson)](https://www.youtube.com/watch?v=F3jk3pflofk)"|
