@@ -7,3 +7,6 @@
     - *Michael Trent*   
   -  If you're going to get just one album:  
     -  *Busted Jukebox Vol. 1*
+- **[Shakey Graves](https://en.wikipedia.org/wiki/Shakey_Graves)**  
+    -  Members
+     -  Shakey Graves (born Alejandro Rose-Garcia)
