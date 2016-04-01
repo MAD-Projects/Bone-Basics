@@ -3,7 +3,7 @@
 ##Stompy Music
 | **Band**  	|  **Members** 	|   **If you're going to get just one album, go with:**  |**Songs worth checking out.**|
 |--- |--- |--- |--- |
-|[Shove & Rope](https://en.wikipedia.org/wiki/Shovels_%26_Rope) 	| Cary Ann Hearst, Michael Trent   	| *Busted Jukebox Vol. 1*|"[Unknown Legend (feat. Shakey Graves)](https://www.youtube.com/watch?v=CEkuxNDsHs8)"|
+|[Shovels & Rope](https://en.wikipedia.org/wiki/Shovels_%26_Rope) 	| Cary Ann Hearst, Michael Trent   	| *Busted Jukebox Vol. 1*|"[Unknown Legend (feat. Shakey Graves)](https://www.youtube.com/watch?v=CEkuxNDsHs8)"|
 |[Shakey Graves](https://en.wikipedia.org/wiki/Shakey_Graves) 	| Shakey Graves (born Alejandro Rose-Garcia)	|*And the War Came* |"[Dearly Departed (feat. Esme Patterson)](https://www.youtube.com/watch?v=F3jk3pflofk)"|
 |[The Felice Brothers](https://en.wikipedia.org/wiki/The_Felice_Brothers) 	| Ian Felice, James Felice, Josh "Christmas Clapton" Rawson, Greg Farley, David Estabrook  	|  *[The Felice Brothers](https://en.wikipedia.org/wiki/The_Felice_Brothers_%28album%29)* |"[Frankie's Gun!](https://www.youtube.com/watch?v=rH9x4S3-wVY)", "[Take This Bread](https://www.youtube.com/watch?v=GnziEII1nnw)", "[Helen Fry](https://www.youtube.com/watch?v=1rcugwPj6ec)", "[Tip Your Way](https://www.youtube.com/watch?v=wJPB27Q0mJY)" |
 |[The Heartless Bastards](https://en.wikipedia.org/wiki/Heartless_Bastards)|Erika Wennerstrom, Dave Colvin, Jesse Ebaugh, Mark Nathan | | |
