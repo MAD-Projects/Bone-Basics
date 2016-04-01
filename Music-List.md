@@ -3,8 +3,8 @@
 ##Stompy Music
 | **Band**  	|  **Members** 	|   **If you're going to get just one album, go with:**  |**Songs from all their albums worth checking out.**|
 |--- |--- |--- |--- |
-|[Shove & Rope](https://en.wikipedia.org/wiki/Shovels_%26_Rope) 	| Cary Ann Hearst, Michael Trent   	| *Busted Jukebox Vol. 1*|"Unknown Legend (feat. Shakey Graves)"|
-|[Shakey Graves](https://en.wikipedia.org/wiki/Shakey_Graves) 	| Shakey Graves (born Alejandro Rose-Garcia)	|*And the War Came* |"Dearly Departed (feat. Esme Patterson)"|
+|[Shove & Rope](https://en.wikipedia.org/wiki/Shovels_%26_Rope) 	| Cary Ann Hearst, Michael Trent   	| *Busted Jukebox Vol. 1*|"[Unknown Legend (feat. Shakey Graves)]"(https://www.youtube.com/watch?v=CEkuxNDsHs8)|
+|[Shakey Graves](https://en.wikipedia.org/wiki/Shakey_Graves) 	| Shakey Graves (born Alejandro Rose-Garcia)	|*And the War Came* |"[Dearly Departed (feat. Esme Patterson)](https://www.youtube.com/watch?v=F3jk3pflofk)"|
 |[The Felice Brothers](https://en.wikipedia.org/wiki/The_Felice_Brothers) 	| Ian Felice, James Felice, Josh "Christmas Clapton" Rawson, Greg Farley, David Estabrook  	|  *[The Felice Brothers](https://en.wikipedia.org/wiki/The_Felice_Brothers_%28album%29)* |"Frankie's Gun!", "Take This Bread", "Helen Fry", "Tip Your Way" |
 |[The Heartless Bastards](https://en.wikipedia.org/wiki/Heartless_Bastards)|Erika Wennerstrom, Dave Colvin, Jesse Ebaugh, Mark Nathan | | |
 |[Sturgill Simpson](https://en.wikipedia.org/wiki/Sturgill_Simpson)||*[Metamodern Sounds in Country Music](https://en.wikipedia.org/wiki/Metamodern_Sounds_in_Country_Music)*|"Living the Dream","Voices"|
