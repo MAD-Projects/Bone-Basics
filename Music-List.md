@@ -5,7 +5,7 @@
 |--- |--- |--- |--- |
 |[Shove & Rope](https://en.wikipedia.org/wiki/Shovels_%26_Rope) 	| Cary Ann Hearst  Michael Trent   	| *Busted Jukebox Vol. 1*|Unknown Leged (feat. Shakey Graves)|
 |[Shakey Graves](https://en.wikipedia.org/wiki/Shakey_Graves) 	| Shakey Graves (born Alejandro Rose-Garcia)	|*And the War Came* |Deary Departed (feat. Esme Patterson)|
-|The Felice Brothers 	|   	|  The Felice Brothers |Frankies Gun!, Take This Bread, Helen Fry, Tip Your Way |
+|[The Felice Brothers](https://en.wikipedia.org/wiki/The_Felice_Brothers) 	|   	|  [The Felice Brothers](https://en.wikipedia.org/wiki/The_Felice_Brothers_%28album%29) |Frankies Gun!, Take This Bread, Helen Fry, Tip Your Way |
 |The Heartless Bastards| | |
 |
 
