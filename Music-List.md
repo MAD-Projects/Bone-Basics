@@ -3,6 +3,6 @@
 ##Stompy Music
 - **[Shove & Rope](https://en.wikipedia.org/wiki/Shovels_%26_Rope)**  
  - Members  
-   - Cary Ann Hearst  
-    - Michael Trent   
+   - *Cary Ann Hearst* 
+    - *Michael Trent*   
   -  If you're going to get just one album:
