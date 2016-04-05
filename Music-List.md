@@ -10,5 +10,5 @@
 |[Sturgill Simpson](https://en.wikipedia.org/wiki/Sturgill_Simpson)|Laur Joamets – electric & slide guitar, Kevin Black – bass guitar, Jeff Crow – keyboards, Miles Miller – drums, percussion, backing vocals
 |*[Metamodern Sounds in Country Music](https://en.wikipedia.org/wiki/Metamodern_Sounds_in_Country_Music)*|"[Living the Dream](https://www.youtube.com/watch?v=dvC-8gL4h_Y)","[Voices](https://www.youtube.com/watch?v=gOCFWd8qusw)"|
 |[Dr. Dog](https://en.wikipedia.org/wiki/Dr._Dog)|Scott McMicken (Taxi), Toby Leaman (Tables), Zach Miller (Text), Eric Slick (Teach), Frank McElroy (Thanks), Dimitri Manos (Tucson)|*[B-Room](https://en.wikipedia.org/wiki/B-Room)*||
-|[Deer Tick](https://en.wikipedia.org/wiki/Deer_Tick_%28band%29)|John Joseph McCauley, Christopher Dale Ryan, Dennis Michael Ryan, Ian Patrick O'Neil, Robert Barry Crowell| *Born on Flag Day*||
+|[Deer Tick](https://en.wikipedia.org/wiki/Deer_Tick_%28band%29)|John Joseph McCauley, Christopher Dale Ryan, Dennis Michael Ryan, Ian Patrick O'Neil, Robert Barry Crowell| *Born on Flag Day*|"Easy", "Nebraska (Bruce Springsteen Cover)"|
 
