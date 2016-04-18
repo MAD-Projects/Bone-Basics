@@ -34,7 +34,7 @@ Reply with **meeting request** = Ctrl+Alt+R
 **Create datestamp log** = F5
 **Create datestamp log** (Auto) = Create Notepad file, type .LOG, Opening and saving creates datestamp
 
-###Windows 7
+###Windows 7 [(Wikipedia Link)](https://en.wikipedia.org/wiki/Table_of_keyboard_shortcuts)
 New **Folder** = Ctrl+Shft+N   
 
 
