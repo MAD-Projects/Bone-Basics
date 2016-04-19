@@ -37,10 +37,10 @@ Reply with **meeting request** = Ctrl+Alt+R
 ###Windows 7 [(Wikipedia Link)](https://en.wikipedia.org/wiki/Table_of_keyboard_shortcuts)
 New **Folder** = Ctrl+Shft+N 
 
-**Export File Directory information**
-1. To display the contents of a folder open Windows Explorer, navigate to the source folder and press Ctrl+A to select all the items. Hold down the Shift key, right-click on the selection and choose Copy as Path. Open your spreadsheet program (or word processor), paste (Ctrl+V) the list to it and adjust the width of the column. You can now print it, edit it or save it and add to it later.
+**Export File Directory information**  
+1. To display the contents of a folder open Windows Explorer, navigate to the source folder and press Ctrl+A to select all the items. Hold down the Shift key, right-click on the selection and choose Copy as Path. Open your spreadsheet program (or word processor), paste (Ctrl+V) the list to it and adjust the width of the column. You can now print it, edit it or save it and add to it later.  
 2. To display the folder hierarchy, open Windows Explorer, navigate to the folder you wish to start at, hold down the Shift key, right-click on the folder name and choose Open command window here. Type tree |clip and press Enter. Open your word processor program and paste (Ctrl+V) the list to it. You can now print it, edit it or save it and add to it later.
-Switches are tree /a |clip (use text characters) and tree /f |clip (display files in each folder).
+Switches are tree /a |clip (use text characters) and tree /f |clip (display files in each folder).  
 
 
 
