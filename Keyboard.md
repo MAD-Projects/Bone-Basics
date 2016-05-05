@@ -18,6 +18,10 @@ Reply with **meeting request** = Ctrl+Alt+R
 
 ###Excel
 
+**Remove Text from Cell** = =LEFT(A2, LEN(A2)-5)
+
+**Copy Text Down Long List of Cells** = Double click the small plus sign in the bottom right corner of a cell.
+
 **Edit Cell** = F2
 **Copy Down from a cell** = Ctrl+Quote mark (")
 
