@@ -34,7 +34,7 @@ Reply with **meeting request** = Ctrl+Alt+R
 3. Used the *advanced filter* option in excel. Use [this page](https://superuser.com/questions/623380/excel-filter-a-column-by-more-than-two-values) or [this page](http://www.excel-easy.com/examples/advanced-filter.html).
 4. Additional useful filtering information can be found [here](http://www.excelfunctions.net/ExcelAdvancedFilter.html).
 
-**Concatenate**
+**Concatenate**  
 [How To Concatenate Numbers And Percentages](http://www.howtoexcelatexcel.com/formulas/how-to-concatenate-numbers-and-percentages/)
 > Type =CONCATENATE(A2,” “,TEXT(B2,”0%”)) 
 
