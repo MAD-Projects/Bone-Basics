@@ -38,6 +38,11 @@ Reply with **meeting request** = Ctrl+Alt+R
 [How To Concatenate Numbers And Percentages](http://www.howtoexcelatexcel.com/formulas/how-to-concatenate-numbers-and-percentages/)
 > Type =CONCATENATE(A2,” “,TEXT(B2,”0%”)) 
 
+**[Automating Data Valadation Lists in Excel](http://www.accountingweb.com/technology/excel/automating-data-validation-lists-in-excel)**
+
+
+
+
 ###Notepad
 **Create datestamp log** = F5
 **Create datestamp log** (Auto) = Create Notepad file, type .LOG, Opening and saving creates datestamp
